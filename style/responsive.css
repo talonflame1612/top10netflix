@@ -1,0 +1,77 @@
+@media screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+        z-index: 1000;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+
+    .texto-inicio {
+        font-size: 20px;
+        padding: 20px;
+    }
+
+    .lista {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .lista .item {
+        position: relative;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .posicao {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        font-size: 3rem;
+        color: var(--cor-netflix);
+        font-weight: bold;
+    }
+
+
+    .card {
+        width: 90%;
+        height: auto;
+        flex-direction: column;
+    }
+
+    .imagem {
+        width: 100%;
+        height: auto;
+    }
+
+    .texto {
+        width: 100%;
+    }
+
+    .imagem-final {
+        display: none;
+    }
+
+
+    .texto-despedida {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    footer {
+
+        align-items: center;
+        padding: 10px;
+    }
+}
