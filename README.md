@@ -17,12 +17,12 @@ Aqui estão algumas das minhas escolhas mais marcantes:
 1. **Stranger Things**  
    Um fenômeno mundial de mistério e ficção científica. A série mistura nostalgia dos anos 80 com momentos assustadores e emocionantes.
 
-   ![Stranger Things GIF](https://media.giphy.com/media/5iaPugv98zxe/giphy.gif)
+   
 
 2. **Round 6 (Squid Game)**  
    Um dos maiores sucessos globais da Netflix, Round 6 explora jogos mortais com uma crítica social que faz todos refletirem.
 
-   ![Round 6 GIF](https://media.giphy.com/media/iPUPts9rEqpXy/giphy.gif)
+   
 
 ## 🎨 Objetivo do Projeto
 
